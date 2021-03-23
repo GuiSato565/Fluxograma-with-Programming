@@ -1,6 +1,7 @@
 # Fluxograma-with-Programming
 
 Apresentação gráfica de um algoritmo 
+
 ![Alt text](Logica-de-Programacao/img-fluxo/fluxo.PNG  "Fluxograma-Atribuicao")
 
 Talvez, usar o fluxograma como uma das primeiras ferramentas, para programar, não seja a melhor ideia.
@@ -17,6 +18,7 @@ Em um programa há a entrada de dados e a saida de dados, como nesse meio termo 
 apenas mostrou isso, acontecendo em forma de graficos.
 
 O resultado da saida: 
+
 ![Alt text](Logica-de-Programacao/img-fluxo/result.PNG  "Fluxograma-Result")
 
 Nos arquivos, estão um calculo de IMC (Índice de Massa Corporal).
