@@ -30,3 +30,7 @@ Então além do IMC em fluxograma, tem o mesmo calculo, só que em Java, JavaScr
 
 
 O programa também está disponível nesse repositório...
+
+Referências: 
+
+https://web.digitalinnovation.one/course/logica-de-programacao-essencial/learning/aea1ea26-fd56-417d-8272-6e15253f4405/
